@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋長歷
-#+DATE: 2015-09-23 09:40:39
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:17:28.660786
+#+PROPERTY: ID KR1e0112
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1e0112_WYG_004-1a>¶
 欽定四庫全書¶
 　春秋長厯卷四¶
@@ -794,4 +796,3 @@
 　¶
 　¶
 　春秋長厯卷四¶
-
